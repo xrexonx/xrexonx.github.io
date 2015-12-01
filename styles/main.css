@@ -197,6 +197,11 @@
     background-size: cover;
     height: 350px;
 }
+.card.hovercard .cardheader2 {
+    background: url("http://api.thumbr.it/whitenoise-300x200.png?background=4ea6caff&noise=626262&density=62&opacity=15")no-repeat;
+    background-size: cover;
+    height: 350px;
+}
 
 .card.hovercard .avatar {
     position: relative;
